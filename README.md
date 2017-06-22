@@ -1,2 +1,3 @@
 # hello-world
-just creat a repository
+just to creat a repository
+I'm Fancy who is trying to learn something~
